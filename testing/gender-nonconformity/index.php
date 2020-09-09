@@ -146,7 +146,7 @@
                 <a href="tel:(888) 871-1883" class="image-contact-block__detailsLink"><i class="fas fa-phone"></i>(888) 871-1883 </a>
               </li>
                               <li class="image-contact-block__detailsItem">
-                  <a href="mailto:info@TexasSpecialtyClinic.com" class="image-contact-block__detailsLink image-contact-block__detailsLink--smaller"><i class="fas fa-envelope"></i>info@TexasSpecialtyClinic.com </a>
+                  <a href="mailto:kalpeshupadhyay@cmclancaster.com" class="image-contact-block__detailsLink image-contact-block__detailsLink--smaller"><i class="fas fa-envelope"></i>kalpeshupadhyay@cmclancaster.com </a>
                 </li>
                 <br><br>
                 <li><span class="featured-block__button button button--orange "  id="myBtn" style="">Get Tested Now <img src="../../assets/images/btn-icon-arrow-right.png" class="arrow-image-req" style="margin-left: 5px;"> </span></li>

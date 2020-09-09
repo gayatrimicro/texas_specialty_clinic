@@ -121,7 +121,7 @@
                   </li>
                   <li class="contact__detailsItem">
                      <span>Email</span>
-                     <a href="mailto:info@TexasSpecialtyClinic.com " class="contact__detailsLink">info@TexasSpecialtyClinic.com </a>
+                     <a href="mailto:kalpeshupadhyay@cmclancaster.com " class="contact__detailsLink">kalpeshupadhyay@cmclancaster.com </a>
                   </li>
                   <li class="contact__detailsItem">
                      <span>Fax</span>

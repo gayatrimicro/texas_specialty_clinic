@@ -35,7 +35,7 @@
             </div>
             <div class="footer__col">
                <p class="footer__textarea">
-                  <a href="mailto:info@TexasSpecialtyClinic.com ">info@TexasSpecialtyClinic.com<img src="http://spacegm.com/texas-specialty-clinic/assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a> </br>
+                  <a href="mailto:kalpeshupadhyay@cmclancaster.com ">kalpeshupadhyay@cmclancaster.com<img src="http://spacegm.com/texas-specialty-clinic/assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a> </br>
                   Phone: <a href="tel:469-545-8645">469-545-8645  <img src="http://spacegm.com/texas-specialty-clinic/assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a><br>
                   Fax:<a href="fax:(214) 888-4450"> (214) 888-4450 <img src="http://spacegm.com/texas-specialty-clinic/assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a>
                </p>

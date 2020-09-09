@@ -110,7 +110,7 @@
 				
 			</div>
 			<div class="inner-hero__col inner-hero__col--small inner-hero__col--center">
-				<a class="inner-hero__right button button--orange" href="mailto:info@TexasSpecialtyClinic.com ">Get in touch</a>
+				<a class="inner-hero__right button button--orange" href="mailto:kalpeshupadhyay@cmclancaster.com ">Get in touch</a>
 			</div>
 		</div>
 	</section>
