@@ -27,18 +27,17 @@
          <div class="footer__block flexComponent flexComponent--row">
             <div class="footer__col">
                <p class="footer__textarea">
-                  Texas Specialty Clinic <br />
-                  2949 Martin Luther King, <br />
-                  Jr. Blvd., Suite 3<br />
-                  Dallas, TX 75215<br />
+                  13988 Diplomat Drive, <br />
+                  Suite 100 Farmers Branch, <br />
+                  TX 75234<br />
       
                </p>
             </div>
             <div class="footer__col">
                <p class="footer__textarea">
-                  <a href="mailto:info@TexasSpecialtyClinic.com ">info@TexasSpecialtyClinic.com <img src="http://spacegm.com/texas-specialty-clinic/assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a> </br>
-                  Phone: <a href="tel:(888) 871-1883">(469) 581-0084  <img src="http://spacegm.com/texas-specialty-clinic/assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a><br>
-                  Fax:<a href="fax:(888) 900-4530"> (888) 900-4530 <img src="http://spacegm.com/texas-specialty-clinic/assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a>
+                  <a href="mailto:info@TexasSpecialtyClinic.com ">info@TexasSpecialtyClinic.com<img src="http://spacegm.com/texas-specialty-clinic/assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a> </br>
+                  Phone: <a href="tel:469-545-8645">469-545-8645  <img src="http://spacegm.com/texas-specialty-clinic/assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a><br>
+                  Fax:<a href="fax:(214) 888-4450"> (214) 888-4450 <img src="http://spacegm.com/texas-specialty-clinic/assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a>
                </p>
                <ul class="social-icons social-icons--pink">
                   <li class="social-icons__item">

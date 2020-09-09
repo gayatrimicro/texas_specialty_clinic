@@ -143,7 +143,7 @@
             <p class="image-contact-block__text image-contact-block__text--contact">For all enquiries, contact Texas Specialty Clinic.</p>
             <ul class="image-contact-block__details">
               <li class="image-contact-block__detailsItem">
-                <a href="tel:(888) 871-1883" class="image-contact-block__detailsLink"><i class="fas fa-phone"></i>(888) 871-1883 </a>
+                <a href="tel:469-545-8645" class="image-contact-block__detailsLink"><i class="fas fa-phone"></i>469-545-8645 </a>
               </li>
                               <li class="image-contact-block__detailsItem">
                   <a href="mailto:info@TexasSpecialtyClinic.com" class="image-contact-block__detailsLink image-contact-block__detailsLink--smaller"><i class="fas fa-envelope"></i>info@TexasSpecialtyClinic.com </a>

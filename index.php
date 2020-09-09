@@ -282,7 +282,7 @@
          </div><br>
           <div class="" style="text-align: center;margin-top: 25px;width: 100%;padding: 30px;color: #fff;background-color: #efeee8;">
          <h1 class="featured-block__title featured-block__title--pink" style="text-align: center;color: #000000;font-weight: 500;margin-bottom: 30px;"> Call Now to Get Tested Today!</h1>
-        <a href="" style="" class="button button--orange">&nbsp;(888) 871-1883&nbsp; <img src="assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a>
+        <a href="" style="" class="button button--orange">&nbsp;469-545-8645&nbsp; <img src="assets/images/btn-icon-arrow-right.png" style="margin-left: 5px;"> </a>
       </div>
       </section>  
       <style type="text/css">

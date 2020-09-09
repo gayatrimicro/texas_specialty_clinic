@@ -143,7 +143,7 @@
             <p class="image-contact-block__text image-contact-block__text--contact">For all enquiries, contact Texas Specialty Clinic.</p>
             <ul class="image-contact-block__details">
               <li class="image-contact-block__detailsItem">
-                <a href="tel:(888) 871-1883" class="image-contact-block__detailsLink"><i class="fas fa-phone"></i>(888) 871-1883 </a>
+                <a href="tel: 469-545-8645" class="image-contact-block__detailsLink"><i class="fas fa-phone"></i>469-545-8645 </a>
               </li>
                               <li class="image-contact-block__detailsItem">
                   <a href="mailto:info@TexasSpecialtyClinic.com" class="image-contact-block__detailsLink image-contact-block__detailsLink--smaller"><i class="fas fa-envelope"></i>info@TexasSpecialtyClinic.com </a>
@@ -255,7 +255,7 @@ All sexually active individuals should get tested for HIV regularly. Anyone can 
  <div class="section wysiwyg-textarea section--light-purple">
   <div class="container container--xsmall" style="margin-top: 0px;">
     <h4 style="margin-top: 0px;">Treatment for HIV</h4>
-      <p>Though HIV is a frightening disease, scientists are working diligently to find a cure. (And there’s renewed hope that one might be around the corner after a man in London was cured of HIV.) Additionally, medical professionals have made tremendous strides in HIV treatment. Often, the key to managing HIV is detecting it early –– which makes HIV testing all the more crucial. If you’re concerned about your sexual well-being –– or if you haven’t had a test recently –– then make time to get tested soon. You can contact one of our team members here at 1 (888) 871-1883, or, to get tested today, schedule an appointment.
+      <p>Though HIV is a frightening disease, scientists are working diligently to find a cure. (And there’s renewed hope that one might be around the corner after a man in London was cured of HIV.) Additionally, medical professionals have made tremendous strides in HIV treatment. Often, the key to managing HIV is detecting it early –– which makes HIV testing all the more crucial. If you’re concerned about your sexual well-being –– or if you haven’t had a test recently –– then make time to get tested soon. You can contact one of our team members here at   469-545-8645, or, to get tested today, schedule an appointment.
       </p>
       <br><br>
       <span class="featured-block__button button button--orange " id="myBtn"  style="margin: 0 auto;text-align: center;display: block;width: 50%;">Get tested now <img src="../../assets/images/btn-icon-arrow-right.png" class="arrow-image-req" style="margin: 0px;"> </span>

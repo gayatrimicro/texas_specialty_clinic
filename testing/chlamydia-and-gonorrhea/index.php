@@ -133,7 +133,7 @@
             <p class="image-contact-block__text image-contact-block__text--contact">For all enquiries, contact Texas Specialty Clinic.</p>
             <ul class="image-contact-block__details">
               <li class="image-contact-block__detailsItem">
-                <a href="tel:(888) 871-1883" class="image-contact-block__detailsLink"><i class="fas fa-phone"></i>(888) 871-1883 </a>
+                <a href="tel: 469-545-8645" class="image-contact-block__detailsLink"><i class="fas fa-phone"></i>469-545-8645 </a>
               </li>
                               <li class="image-contact-block__detailsItem">
                   <a href="mailto:info@TexasSpecialtyClinic.com" class="image-contact-block__detailsLink image-contact-block__detailsLink--smaller"><i class="fas fa-envelope"></i>info@TexasSpecialtyClinic.com </a>
@@ -449,7 +449,7 @@ Chlamydia and Gonorrhea are sexually transmitted diseases (STDs) caused by bacte
         <div class="image-contact-block__innerContainer">
               <h3 class="box-content">What happens if you test positive for Chlamydia and Gonorrhea?</h3>
               <p class="content-description">If you test positive for Chlamydia and Gonorrhea, our doctors are available for a phone consultation. They will answer any questions you might have about your test results, discuss available treatments and prescribe medications for your Chlamydia and Gonorrhea infection at their discretion. You can also call or chat live with our Care Advisors 24/7.</p>
-              <p class="content-description">We are here for you. Call us at (888) 871-1883</p>
+              <p class="content-description">We are here for you. Call us at 469-545-8645</p>
             
         </div>
       </div>

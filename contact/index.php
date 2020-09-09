@@ -117,7 +117,7 @@
                <ul class="contact__details">
                   <li class="contact__detailsItem">
                      <span>Tel</span>
-                     <a href="tel:(888) 871-1883" class="contact__detailsLink">(888) 871-1883</a>
+                     <a href="tel: 469-545-8645" class="contact__detailsLink">469-545-8645</a>
                   </li>
                   <li class="contact__detailsItem">
                      <span>Email</span>
@@ -125,7 +125,7 @@
                   </li>
                   <li class="contact__detailsItem">
                      <span>Fax</span>
-                     <a href=" (888) 900-4530" class="contact__detailsLink">(888) 900-4530</a>
+                     <a href=" (214) 888-4450" class="contact__detailsLink">(214) 888-4450</a>
                   </li>
                </ul>
                <div class="contact__info">
@@ -133,9 +133,9 @@
                     
                   </p>
                   <p class="contact__info-text contact__detailsItem" style="font-size: 1.18333rem; margin-right: -42px;">
-                    Texas Specialty Clinic<br>
-2700 W. Pleasant Run Rd.<br>
-Lancaster, TX 75146
+                    13988 Diplomat Drive,<br>
+Suite 100 Farmers Branch,<br>
+TX 75234
                   </p>
                </div>
                <ul class="social-icons social-icons--pink social-icons--large">
